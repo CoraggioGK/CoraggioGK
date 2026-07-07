@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coraggiogk.github.io/CoraggioGK/sitemap.xml
